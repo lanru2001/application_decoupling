@@ -1,3 +1,3 @@
-# lanru2001-application_decoupling-
+#application_decoupling
 
 Application integration and decoupling using Amazon SNS , Amazon SQS and AWS Lambda Function. 
