@@ -42,7 +42,7 @@ data "aws_iam_policy_document" "sns_topic_policy" {
       "SNS:ListSubscriptionsByTopic",
       "SNS:GetTopicAttributes",
       "SNS:DeleteTopic",
-      "SNS:AddPermission",
+      "SNS:AddPermission"
     ]
 
     condition {
