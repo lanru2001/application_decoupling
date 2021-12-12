@@ -1,4 +1,5 @@
 #Application decoupling
+
 data "archive_file" "sqs_trigger_lambda" {
   type        = "zip"
   source_file = "${path.module}/example_lambda.py"
