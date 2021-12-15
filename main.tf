@@ -1,4 +1,4 @@
-
+# Application decoupling and queuing 
 
 resource "aws_sqs_queue" "FirstQueue" {
   name                      = "my-first-queue"
